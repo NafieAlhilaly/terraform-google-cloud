@@ -1,0 +1,1 @@
+A simple project to get started with Terrafrom and Google Cloud, and testing Dammam region.
