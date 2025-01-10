@@ -1,6 +1,6 @@
 provider "google" {
-    project     = "test-project"
-    region      = var.google_region
+  project = "test-project"
+  region  = var.google_region
 }
 
 # Create a VPC network
